@@ -11,6 +11,7 @@
 ### 🔹 Projects
 🌟 **[Stock Screener](https://github.com/essblue/stock-screener)** - Python script for analyzing stocks based on technical indicators.  
 🌟 **[Fraud Detection Model](https://github.com/essblue/fraud-detection)** - Built an ML model to detect fraudulent transactions.  
-🌟 **[Interactive Finance Dashboard](https://github.com/essblue/finance-dashboard)** - Streamlit dashboard for visualizing financial data.  
+🌟 **[Interactive Finance Dashboard](https://github.com/essblue/finance-dashboard)** - Streamlit dashboard for visualizing financial data.
+
 
 📫 **Let's connect:** [LinkedIn]([https://www.linkedin.com/in/estefania-sarmiento-739929117/)])
